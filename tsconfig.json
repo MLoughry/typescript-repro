@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "obj",
+    "rootDir": "src",
+    "strict": true,
+    "baseUrl": ".",
+    "composite": true,
+    "declarationMap": true
+  },
+  "references": [
+      {
+          "path": "src/a/tsconfig.json"
+      }
+  ],
+  "include": []
+}
