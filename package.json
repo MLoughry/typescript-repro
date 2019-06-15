@@ -9,5 +9,8 @@
   "scripts": {
     "tsc": "tsc",
     "test": "jest"
+  },
+  "devDependencies": {
+    "tslint": "^5.17.0"
   }
 }
