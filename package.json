@@ -7,7 +7,11 @@
     "typescript": "3.3.0-rc"
   },
   "scripts": {
+    "build": "yarn pnpify tsc",
     "tsc": "tsc",
     "test": "jest"
+  },
+  "devDependencies": {
+    "@berry/pnpify": "^0.0.4"
   }
 }
