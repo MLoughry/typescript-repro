@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "spinnies": "^0.4.2",
     "typescript": "3.3.0-rc"
   },
   "scripts": {
@@ -12,6 +13,6 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@berry/pnpify": "^0.0.4"
+    "@berry/pnpify": "^0.0.5"
   }
 }
